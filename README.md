@@ -1,0 +1,1 @@
+The project used machine learning decision tree algorithm to create a crop recommendation system using python. the system was locally deployed using flask. feel free to make improvements and make corrections. # CropRecommendation #python #flask #machinlearning
